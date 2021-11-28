@@ -19,17 +19,29 @@
 
 3.1.	Material y equipo requerido 
 
+![material lab 3](https://user-images.githubusercontent.com/93209004/143784719-1440f5ee-d2e7-4cfa-80ad-a2149eec1a5d.png)
+
 3.2.	Procedimiento 
 
 3.2.1.	Implemente el circuito que se presenta en la figura 3.1. 
 
+![Lab 3 final_Página_1](https://user-images.githubusercontent.com/93209004/143785092-c6d19806-2547-4726-9aa8-b15de041a19e.jpg)
+
 3.2.2.	Mida cada uno de los voltajes y anote los resultados en la tabla.
 
+![Lab 3 final_Página_2](https://user-images.githubusercontent.com/93209004/143785109-97bcf668-ffec-421a-a103-f0fc120c7de4.jpg)
+![Lab 3 final_Página_3](https://user-images.githubusercontent.com/93209004/143785124-54421119-d8a1-4584-884f-cdd228fb134d.jpg)
+![Lab 3 final_Página_3 1](https://user-images.githubusercontent.com/93209004/143785128-bcb62bab-fe1e-444c-a213-493456963eb4.jpg)
+
 3.2.3.	Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodos. Anote los resultados en la tabla 3.1.
+
+![Lab 3 final_Página_4 1](https://user-images.githubusercontent.com/93209004/143785153-dfad4583-13d9-446c-97e1-570c226e7d6d.jpg)
 
 4.	RESPUESTAS A INTERROGANTES Y CALCULO DEL ERROR.
 
 4.1.	 Compare los valores de la tabla 3.1 y realice sus conclusiones.
+
+![Lab 3 final_Página_4](https://user-images.githubusercontent.com/93209004/143785164-1edd8bb1-3b1a-467b-907f-19b11993fc8d.jpg)
 
 5.	VIDEO
 
