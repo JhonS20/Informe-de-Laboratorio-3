@@ -13,6 +13,7 @@
 •	Comparar los cálculos experimentales y simulados con los analíticos sobre la medición de corriente del circuito. 
 
 2.	MARCO TEORICO 
+![Diagrama en blanco](https://user-images.githubusercontent.com/93899658/143959318-cbf3f104-a84a-446a-bca5-7dde742ec9e0.png)
 
 
 3.	EXPLICACION DEL PROCEDIMIENTO 
