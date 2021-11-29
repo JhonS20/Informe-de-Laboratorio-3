@@ -44,7 +44,7 @@
 ![Lab 3 final_Página_4](https://user-images.githubusercontent.com/93209004/143785164-1edd8bb1-3b1a-467b-907f-19b11993fc8d.jpg)
 
 5.	VIDEO
-
+https://youtu.be/-vZHON8IcPg
 6.	CONCLUSIONES
 
 7.	BIBLIOGRAFIA
