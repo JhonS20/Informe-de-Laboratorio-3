@@ -47,7 +47,9 @@
 5.	VIDEO
 https://youtu.be/-vZHON8IcPg
 6.	CONCLUSIONES
+
 -La aplicación de diferentes métodos para determinar algún determinado valor, conocerlos, da al estudiantes múltiples opciones para resolver ejercicios de tal manera que se pueda aplicar alguna de ellos para resolver algo de forma rápida.
+
 -Mantener el orden correcto en las ecuaciones platenadas hará que los calculos sean más rápidos.
 8.	BIBLIOGRAFIA
 
