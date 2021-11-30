@@ -47,8 +47,9 @@
 5.	VIDEO
 https://youtu.be/-vZHON8IcPg
 6.	CONCLUSIONES
-
-7.	BIBLIOGRAFIA
+-La aplicación de diferentes métodos para determinar algún determinado valor, conocerlos, da al estudiantes múltiples opciones para resolver ejercicios de tal manera que se pueda aplicar alguna de ellos para resolver algo de forma rápida.
+-Mantener el orden correcto en las ecuaciones platenadas hará que los calculos sean más rápidos.
+8.	BIBLIOGRAFIA
 
 MecatrónicaLATAM. (2021, 12 de noviembre) .Leyes de Kirchhoff. De la página web: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
 
