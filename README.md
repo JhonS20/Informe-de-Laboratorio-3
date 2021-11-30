@@ -45,13 +45,16 @@
 ![Lab 3 final_Página_4](https://user-images.githubusercontent.com/93209004/143785164-1edd8bb1-3b1a-467b-907f-19b11993fc8d.jpg)
 
 5.	VIDEO
+
 https://youtu.be/-vZHON8IcPg
+
 6.	CONCLUSIONES
 
 -La aplicación de diferentes métodos para determinar algún determinado valor, conocerlos, da al estudiantes múltiples opciones para resolver ejercicios de tal manera que se pueda aplicar alguna de ellos para resolver algo de forma rápida.
 
 -Mantener el orden correcto en las ecuaciones platenadas hará que los calculos sean más rápidos.
-8.	BIBLIOGRAFIA
+
+7.	BIBLIOGRAFIA
 
 MecatrónicaLATAM. (2021, 12 de noviembre) .Leyes de Kirchhoff. De la página web: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
 
